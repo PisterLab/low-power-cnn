@@ -1,0 +1,128 @@
+Epoch 0/24
+----------
+train Loss: 0.7237 Acc: 0.6885
+val Loss: 0.4949 Acc: 0.8497
+
+Epoch 1/24
+----------
+train Loss: 0.3886 Acc: 0.8770
+val Loss: 0.3615 Acc: 0.8954
+
+Epoch 2/24
+----------
+train Loss: 0.3169 Acc: 0.8852
+val Loss: 0.4355 Acc: 0.8627
+
+Epoch 3/24
+----------
+train Loss: 0.2362 Acc: 0.9016
+val Loss: 0.3207 Acc: 0.9281
+
+Epoch 4/24
+----------
+train Loss: 0.2401 Acc: 0.9098
+val Loss: 0.3427 Acc: 0.9020
+
+Epoch 5/24
+----------
+train Loss: 0.2688 Acc: 0.8689
+val Loss: 0.3132 Acc: 0.9281
+
+Epoch 6/24
+----------
+train Loss: 0.2141 Acc: 0.8975
+val Loss: 0.2964 Acc: 0.9346
+
+Epoch 7/24
+----------
+train Loss: 0.2051 Acc: 0.8934
+val Loss: 0.2958 Acc: 0.9281
+
+Epoch 8/24
+----------
+train Loss: 0.1510 Acc: 0.9508
+val Loss: 0.2961 Acc: 0.9281
+
+Epoch 9/24
+----------
+train Loss: 0.1554 Acc: 0.9221
+val Loss: 0.2969 Acc: 0.9281
+
+Epoch 10/24
+----------
+train Loss: 0.1558 Acc: 0.9303
+val Loss: 0.2956 Acc: 0.9346
+
+Epoch 11/24
+----------
+train Loss: 0.1625 Acc: 0.9303
+val Loss: 0.2991 Acc: 0.9281
+
+Epoch 12/24
+----------
+train Loss: 0.1478 Acc: 0.9344
+val Loss: 0.3017 Acc: 0.9412
+
+Epoch 13/24
+----------
+train Loss: 0.1793 Acc: 0.9139
+val Loss: 0.3022 Acc: 0.9346
+
+Epoch 14/24
+----------
+train Loss: 0.1524 Acc: 0.9385
+val Loss: 0.3026 Acc: 0.9346
+
+Epoch 15/24
+----------
+train Loss: 0.1706 Acc: 0.9262
+val Loss: 0.3032 Acc: 0.9281
+
+Epoch 16/24
+----------
+train Loss: 0.1532 Acc: 0.9303
+val Loss: 0.3033 Acc: 0.9281
+
+Epoch 17/24
+----------
+train Loss: 0.1480 Acc: 0.9385
+val Loss: 0.3031 Acc: 0.9346
+
+Epoch 18/24
+----------
+train Loss: 0.1558 Acc: 0.9344
+val Loss: 0.3035 Acc: 0.9281
+
+Epoch 19/24
+----------
+train Loss: 0.1664 Acc: 0.9303
+val Loss: 0.3035 Acc: 0.9346
+
+Epoch 20/24
+----------
+train Loss: 0.1128 Acc: 0.9590
+val Loss: 0.3036 Acc: 0.9346
+
+Epoch 21/24
+----------
+train Loss: 0.1414 Acc: 0.9385
+val Loss: 0.3036 Acc: 0.9346
+
+Epoch 22/24
+----------
+train Loss: 0.1478 Acc: 0.9344
+val Loss: 0.3036 Acc: 0.9346
+
+Epoch 23/24
+----------
+train Loss: 0.1585 Acc: 0.9303
+val Loss: 0.3036 Acc: 0.9346
+
+Epoch 24/24
+----------
+train Loss: 0.1640 Acc: 0.9303
+val Loss: 0.3037 Acc: 0.9346
+
+Training complete in 6m 59s
+Best val Acc: 0.941176
+Exception ignored in: <bound method _DataLoaderIter.__del__ of <torch.utils.data.dataloader._DataLoaderIter object at 0x11edc5978>>
